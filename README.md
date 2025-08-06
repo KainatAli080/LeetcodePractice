@@ -1,3 +1,3 @@
-# LeetcodeChallenge
-Leetcode 30 day challenge, 
+# Leetcode Practice
+Leetcode Practice, 
 Kainat Ali
